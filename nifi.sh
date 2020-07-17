@@ -1,0 +1,14 @@
+export CONNECTION_LIFETIME 10
+export SERVIDOR 192.168.3.37
+export USUARIO DCASE_PNB
+export SENHA case
+export HA_EVENTS N 
+export DECR_POOL_SIZE 1
+export PORTA 1521
+export MAX_POOL_SIZE 20000
+export MIN_POOL_SIZE 10
+export INCR_POOL_SIZE 5
+export TIMEOUT 120
+export BANCO_SERVICO_DADOS orcl.2rpnet.local
+export AMBIENTE HOM
+export TZ "America/Sao_Paulo"
